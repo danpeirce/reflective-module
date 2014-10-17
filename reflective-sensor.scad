@@ -1,6 +1,8 @@
 // file: reflective-sensor.scad
-//   by: Daniel Peirce B.Sc.
+//   by: Daniel Peirce B.Sc. 2014 CC0 v1.0
+//  CC0 places this file in the public domain
 //
+// The reflctive sensor is a QRD1114
 // pin 1 collecter  mark indicats pin 1
 // pin 2 emitter
 // pin 3 anode
